@@ -1,0 +1,16 @@
+{
+  "name": "web-screenshot-api",
+  "version": "1.0.0",
+  "description": "API for taking web page screenshots using Puppeteer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node api/screenshot.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "puppeteer": "^19.11.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
